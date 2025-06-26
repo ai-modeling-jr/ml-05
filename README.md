@@ -1,4 +1,4 @@
-# ml-05
+# ml-05 지도학습 Linear Classifier (선형분류)
 
 Linear Classifier (선형분류)  
 
